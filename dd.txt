@@ -2,8 +2,12 @@
 <html>
 <body>
 <h1>Hello World</h1>
+<<<<<<< HEAD
 <p>I'm hosted with GitHub Pages.
 asdsadffffffffffff
 sadasd</p>
 </body>
 </html>
+=======
+ไำ
+>>>>>>> cc55f61425883514e70d951a973d55b5c28762a7
